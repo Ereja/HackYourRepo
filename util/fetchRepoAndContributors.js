@@ -16,4 +16,3 @@ export function fetchRepositories() {
     'https://api.github.com/orgs/HackYourFuture/repos?per_page=100',
   ).then(repoInfo => addRepoInfo(repoInfo));
 }
- 
