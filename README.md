@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="550" height="385" src="https://user-images.githubusercontent.com/66121679/105899109-8a431380-601a-11eb-9839-d6f456079b3f.png">
+  <img width="550" height="332" src="https://user-images.githubusercontent.com/66121679/105899109-8a431380-601a-11eb-9839-d6f456079b3f.png">
 </p>
 
 Application that uses GitHub API to gather information from HackYourFuture GitHub page.
